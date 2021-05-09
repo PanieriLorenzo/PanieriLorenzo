@@ -7,3 +7,6 @@ alias. If you want, you can suggest ideas for plugins over at [this repository](
 
 # Get in Touch
 You can write me an email at panierilorenzo@gmail.com.
+
+# Send Tips 🙃 (Nano)
+`nano_3qdtyeapdkcmwtuyae5axix88gzrfmko36h1nfdjzpiwk7dgynp95a73ywxi`

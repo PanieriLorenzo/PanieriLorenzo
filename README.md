@@ -1,9 +1,11 @@
+> __Disclaimer__: I will no longer store [GPL licensed](https://www.gnu.org/licenses/gpl-3.0.en.html) code on GitHub until they stop [illegally using GPL licensed code to train GitHub Copilot's language model](https://codeium.com/blog/copilot-trains-on-gpl-codeium-does-not). All my GPL licensed code is on [GitLab](https://gitlab.com/stoejmaskiner). Please consider switching to a less shady AI coding assistant like [Codeium](https://codeium.com/). All permissively licensed code is still on GitHub.
+
 # Hello! Welcome to my GitHub profile!
-I'm Lorenzo Panieri. I recently graduated Computer Engineering BSc at [Aarhus University](https://au.dk) in Denmark. I'm currently employed as a data engineer at BEUMER Group A/S.
+I'm Lorenzo Panieri. I'm taking a Masters degree in Computer Engineering at [Aarhus University](https://au.dk) in Denmark.
 
 I also work a lot with signal processing in Rust and I am active in the [Rust-Audio community](https://github.com/RustAudio). 
 I use my signal processing and Rust skills to develop free [audio plugins](https://en.wikipedia.org/wiki/Audio_plug-in)
-for music production sofware. I make the code available for all my plugins under the ["Støjmaskiner"](https://github.com/Stoejmaskiner) organization (formerly ["Flux-Audio"](https://github.com/Flux-Audio)).
+for music production sofware. I make the code available for all my plugins under the ["Stoejmaskiner"](https://gitlab.com/stoejmaskiner) organization (formerly ["Flux-Audio"](https://github.com/Flux-Audio)).
 
 ## What to expect
 

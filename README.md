@@ -9,11 +9,10 @@ for music production sofware. I make the code available for all my plugins under
 
 ## What to expect
 
-My personal page is full of random experiments. You are free to take a look around, but any serious work happens over at my organization [Støjmaskiner](https://github.com/Stoejmaskiner). I mainly use the Rust and Python programming languages, as I'm deeply in love with both of them. At the moment I do a lot of programming language design experiments.
+My personal page is full of random experiments. You are free to take a look around, but any serious work happens over at my organization ["Stoejmaskiner"](https://gitlab.com/stoejmaskiner). I mainly use the Rust and Python programming languages, as I'm deeply in love with both of them. At the moment I do a lot of programming language design experiments.
 
 Some cool projects I'm actively working on:
-- [rslox](../../../rslox): Yet another implementation of the Lox language in Rust
-- [ez_cache](../../../ez_cache): A simple mem/disk caching and memoization library for Python
+- [rust_poly](../../../rust_poly): Rust crate for numeric manipulation of polynomials, find complex roots for any polynomial of any degree.
 
 ## Get in Touch
 LinkedIn: https://www.linkedin.com/in/lorenzo-panieri-2b1ba4145/
